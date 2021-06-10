@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CaesarCipher</string>
+    <string name="your_message">Your message</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="cryptography_caeser_cipher">Cryptography Caeser Cipher</string>
+    <string name="enter_your_text_here">Enter your text here...</string>
+</resources>
